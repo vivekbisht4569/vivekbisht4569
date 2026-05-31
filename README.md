@@ -20,7 +20,7 @@
 
 * 🎯 **Career Goal:** Build strong practical cybersecurity skills and start my career as a SOC Analyst
 
-* ⚡ **Fun Fact:** I document everything I learn through labs, projects, and write-ups to turn theory into practical skills.
+* ⚡  I document everything I learn through labs, projects, and write-ups to turn theory into practical skills.
 
 
 
