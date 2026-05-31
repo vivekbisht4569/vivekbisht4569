@@ -43,12 +43,4 @@
 
 
 
-<h3>🔝 Top Contributed Repo</h3>
-
-<a href="https://github.com/vivekbisht4569">
-  <img src="https://github-contributor-stats.vercel.app/api?username=vivekbisht4569&limit=5&theme=radical&combine_all_yearly_contributions=true" />
-</a>
-
-
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
