@@ -108,11 +108,9 @@ Become a SOC Analyst and grow into a Detection Engineer / Security Engineer role
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vivekbisht4569&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=vivekbisht4569&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vivekbisht4569&layout=compact&theme=radical)
 
 ---
 
