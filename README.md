@@ -2,9 +2,6 @@
 
 <h3 align="center">Aspiring SOC Analyst | Cybersecurity Student | Blue Team Enthusiast 🇮🇳</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vivekbisht4569&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
-</p>
 
 ---
 
@@ -88,11 +85,11 @@ Become a SOC Analyst and grow into a Detection Engineer / Security Engineer role
 
 📧 Email: [viveksinghbisht28@gmail.com](mailto:viveksinghbisht28@gmail.com)
 
-💼 LinkedIn: [Add Your LinkedIn]
+💼 LinkedIn: https://www.linkedin.com/in/vivek-singh-bisht-074160326/
 
-🎯 TryHackMe: [Add Your Profile]
+🎯 TryHackMe: https://tryhackme.com/p/viveksinghbisht2
 
-🌍 Portfolio: [Add Your Portfolio Website]
+🌍 Portfolio: https://vivek-portfoliooo.netlify.app/
 
 ---
 
@@ -119,12 +116,5 @@ Become a SOC Analyst and grow into a Detection Engineer / Security Engineer role
 
 ---
 
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=vivekbisht4569\&theme=radical\&no-frame=false\&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
-
----
-
-## ⚡ Fun Fact
 
 I document everything I learn through labs, projects, write-ups, and practical exercises because cybersecurity is learned by doing, not just reading.
