@@ -1,46 +1,130 @@
 # 👋 Hi, I'm Vivek Singh Bisht
 
-**Aspiring SOC Analyst | Cybersecurity Student | Blue Team Enthusiast 🇮🇳**
+<h3 align="center">Aspiring SOC Analyst | Cybersecurity Student | Blue Team Enthusiast 🇮🇳</h3>
 
-📧 **Email:** [viveksinghbisht28@gmail.com](mailto:viveksinghbisht28@gmail.com)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vivekbisht4569&label=Profile%20Views&color=blueviolet&style=flat" alt="Profile Views" />
+</p>
 
 ---
 
-* 🔭 **I'm currently working on:** Networking Labs, SOC Home Lab, Cybersecurity Portfolio Website, Python Security Tools
+## 🚀 About Me
 
-* 🌱 **I'm currently learning:** SOC Operations, Log Analysis, Wireshark, Splunk, Threat Detection, Network Security
+🎓 B.Tech CSE (Cybersecurity) Student
 
-* 👯 **I'm looking to collaborate on:** Blue Team Projects, SOC Monitoring Labs, Networking & Security Projects, Open Source Cybersecurity Tools
+🔐 Passionate about Blue Teaming, SOC Operations, Threat Detection, and Security Monitoring
 
-* 🤝 **I'm looking for help with:** Splunk, SIEM Engineering, Detection Rules, Security Automation
+🛡️ Currently building hands-on cybersecurity skills through labs, projects, and real-world simulations
 
-* 💬 **Ask me about:** Networking Fundamentals, Packet Analysis, Wireshark, Linux Basics, Cybersecurity Learning Roadmaps
+📚 Learning:
 
-* 📫 **How to reach me:** LinkedIn, GitHub, TryHackMe, Email
+* SOC Operations
+* SIEM & Log Analysis
+* Threat Hunting
+* Detection Engineering
+* Security Automation
+* Network Security
 
-* 🎯 **Career Goal:** Build strong practical cybersecurity skills and start my career as a SOC Analyst
+🎯 Career Goal:
+Become a SOC Analyst and grow into a Detection Engineer / Security Engineer role
 
-* ⚡  I document everything I learn through labs, projects, and write-ups to turn theory into practical skills.
+---
+
+## 🔭 Current Focus
+
+* SOC Home Lab
+* Splunk Labs
+* Wireshark Traffic Analysis
+* Python Security Automation
+* Network Security Labs
+* Threat Detection Projects
+* Cybersecurity Portfolio Development
+
+---
+
+## 🛠️ Technical Skills
+
+### Security
+
+* SOC Fundamentals
+* Incident Investigation
+* Log Analysis
+* Threat Detection
+* Security Monitoring
+
+### Networking
+
+* TCP/IP
+* DNS
+* DHCP
+* HTTP/HTTPS
+* Routing & Switching
+* Network Troubleshooting
 
 
 
 
-## 🌐 Socials:
-[![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/annonymushacker28) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:viveksinghbisht28@gmail.com) 
+## 🚀 Featured Projects
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Splunk](https://img.shields.io/badge/splunk-%23000000.svg?style=for-the-badge&logo=splunk&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=vivekbisht4569&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=vivekbisht4569&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=vivekbisht4569&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+### 🔐 SOC Home Lab
 
-<!-- Snake Game Repo View -->
-
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
-</div>
+* Windows Event Log Monitoring
+* Sysmon Integration
+* Splunk Dashboards
+* Security Event Investigation
 
 
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 📜 Certifications & Learning
+
+* CompTIA Security+ (In Progress)
+* TryHackMe SOC Level 1 Path (In Progress)
+* Networking & Security Labs
+* Continuous Hands-On Learning
+
+---
+
+## 🌐 Connect With Me
+
+📧 Email: [viveksinghbisht28@gmail.com](mailto:viveksinghbisht28@gmail.com)
+
+💼 LinkedIn: [Add Your LinkedIn]
+
+🎯 TryHackMe: [Add Your Profile]
+
+🌍 Portfolio: [Add Your Portfolio Website]
+
+---
+
+## 💻 Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus\&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge\&logo=linux\&logoColor=black)
+![Splunk](https://img.shields.io/badge/Splunk-000000?style=for-the-badge\&logo=splunk\&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge\&logo=wireshark\&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-049FD9?style=for-the-badge\&logo=cisco\&logoColor=black)
+![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge\&logo=github\&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-121011?style=for-the-badge\&logo=gnubash\&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vivekbisht4569&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
+
+![GitHub Streak](https://streak-stats.demolab.com?user=vivekbisht4569&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vivekbisht4569&layout=compact&theme=radical)
+
+---
+
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=vivekbisht4569\&theme=radical\&no-frame=false\&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
+## ⚡ Fun Fact
+
+I document everything I learn through labs, projects, write-ups, and practical exercises because cybersecurity is learned by doing, not just reading.
