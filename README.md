@@ -115,7 +115,9 @@ Become a SOC Analyst and grow into a Detection Engineer / Security Engineer role
 ## 📊 GitHub Stats
 
 
-![GitHub Streak](https://streak-stats.demolab.com?user=vivekbisht4569&theme=radical&v=1) 
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=vivekbisht4569&theme=radical" alt="Profile Summary"/>
+</p>
 
 ---
 
