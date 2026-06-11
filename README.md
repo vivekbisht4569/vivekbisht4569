@@ -108,7 +108,7 @@ Become a SOC Analyst and grow into a Detection Engineer / Security Engineer role
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
 ![Sysmon](https://img.shields.io/badge/Sysmon-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)
-![OWASP](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)
+![OWASP](https://img.shields.io/badge/OWASP-212C42?style=for-the-badge&logo=OWASP&logoColor=white)
 
 
 ---
